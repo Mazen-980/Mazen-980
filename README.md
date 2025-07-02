@@ -71,6 +71,10 @@ A backend system to manage:
 🔗 **LinkedIn:** [Mazen Ahmad](https://www.linkedin.com/in/mazen-ahmad)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazen-980&show_icons=true&theme=tokyonight" />
+  <br>
+</p>
 
 > 💡 *"I believe that the future belongs to those who build it — and I’m here to build intelligent, inclusive, and impactful technology."*
 
